@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" role="img" aria-labelledby="title desc">
+  <title id="title">Simulated A/B test retention comparison</title>
+  <desc id="desc">Bar chart comparing Day-1 and Day-7 retention for control and treatment groups.</desc>
+  <rect width="900" height="440" fill="#ffffff"/>
+  <text x="60" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#102A43">A/B Test Retention Comparison</text>
+  <text x="60" y="78" font-family="Arial, sans-serif" font-size="14" fill="#627D98">Simulated demo output - replace with source-data results before publication claims</text>
+  <line x1="80" y1="350" x2="850" y2="350" stroke="#9FB3C8" stroke-width="1"/>
+  <line x1="80" y1="120" x2="80" y2="350" stroke="#9FB3C8" stroke-width="1"/>
+  <text x="35" y="353" font-family="Arial" font-size="12" fill="#486581">0%</text>
+  <text x="25" y="238" font-family="Arial" font-size="12" fill="#486581">25%</text>
+  <text x="25" y="123" font-family="Arial" font-size="12" fill="#486581">50%</text>
+  <line x1="80" y1="235" x2="850" y2="235" stroke="#E6EEF5" stroke-width="1"/>
+  <line x1="80" y1="120" x2="850" y2="120" stroke="#E6EEF5" stroke-width="1"/>
+  <rect x="220" y="145" width="95" height="205" rx="4" fill="#2E74B5"/>
+  <rect x="330" y="143" width="95" height="207" rx="4" fill="#67B7DC"/>
+  <rect x="560" y="261" width="95" height="89" rx="4" fill="#2E74B5"/>
+  <rect x="670" y="267" width="95" height="83" rx="4" fill="#67B7DC"/>
+  <text x="242" y="136" font-family="Arial" font-size="14" font-weight="700" fill="#102A43">44.64%</text>
+  <text x="352" y="134" font-family="Arial" font-size="14" font-weight="700" fill="#102A43">44.93%</text>
+  <text x="582" y="252" font-family="Arial" font-size="14" font-weight="700" fill="#102A43">19.25%</text>
+  <text x="692" y="258" font-family="Arial" font-size="14" font-weight="700" fill="#102A43">18.08%</text>
+  <text x="255" y="380" font-family="Arial" font-size="15" font-weight="700" fill="#102A43">Day-1 retention</text>
+  <text x="595" y="380" font-family="Arial" font-size="15" font-weight="700" fill="#102A43">Day-7 retention</text>
+  <rect x="80" y="405" width="14" height="14" fill="#2E74B5"/><text x="102" y="417" font-family="Arial" font-size="13" fill="#486581">Control: gate_30</text>
+  <rect x="245" y="405" width="14" height="14" fill="#67B7DC"/><text x="267" y="417" font-family="Arial" font-size="13" fill="#486581">Treatment: gate_40</text>
+</svg>
+
